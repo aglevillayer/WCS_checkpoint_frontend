@@ -13,3 +13,44 @@ body {
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   background-color: #f5f5f5;
 }
+
+button {
+  background-color: rosybrown;
+}
+.header {
+  background-color: rosybrown;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+.div-form {
+  background-color: gray;
+  border-color: black;
+  border-width: 10cm;
+}
+.input-form {
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+}
+.country-form {
+  display: flex;
+  padding: 20px;
+  justify-content: space-evenly;
+}
+
+.countries-div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.country-card {
+  border-width: 10px;
+  border-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
