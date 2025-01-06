@@ -17,7 +17,7 @@
     "type-graphql": "^2.0.0-beta.6",
     "typeorm": "^0.3.20",
     "cors": "^2.8.5",
-    "express": "^4.19.2",
+    "express": "^4.21.2",
     "class-validator": "0.14.1",
     "graphql": "^16.8.1"
   },
